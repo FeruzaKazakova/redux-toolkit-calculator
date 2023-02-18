@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redux-toolkit-calculator/static/css/main.c32c5c6e.css",
+    "main.js": "/redux-toolkit-calculator/static/js/main.77da4790.js",
+    "index.html": "/redux-toolkit-calculator/index.html",
+    "main.c32c5c6e.css.map": "/redux-toolkit-calculator/static/css/main.c32c5c6e.css.map",
+    "main.77da4790.js.map": "/redux-toolkit-calculator/static/js/main.77da4790.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c32c5c6e.css",
+    "static/js/main.77da4790.js"
+  ]
+}
